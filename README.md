@@ -1,17 +1,40 @@
-# Cybersecurity Portfolio
+# Cybersecurity Portfolio - Tabina Farhan
 
-## Overview
-Portfolio for cybersecurity assignment.
+## 📋 Overview
+Professional cybersecurity portfolio demonstrating skills in security assessment, tool development, and ethical testing.
 
-## Sections
-1. Introduction
-2. Reconnaissance 
-3. Exploitation
-4. Post-Exploitation
-5. Reporting
+## 🛠️ Featured Project
+**recon-auto.sh** - Automated reconnaissance tool
+- Subdomain enumeration
+- Port scanning
+- Vulnerability detection
+- Report generation
 
-## Tool: recon-auto.sh
-My custom reconnaissance automation script.
+[View Code](02_Reconnaissance/tools/recon-auto.sh)
 
-## Contact
-GitHub: tabinafarhan1603-commits
+## 📁 Portfolio Structure
+
+| Section | Description | Status |
+|---------|-------------|--------|
+| [01_Introduction](01_Introduction/) | Methodology & Ethics | ✅ |
+| [02_Reconnaissance](02_Reconnaissance/) | Custom Tools & Scanning | ✅ |
+| [03_Exploitation](03_Exploitation/) | Vulnerability Testing | ✅ |
+| [04_Post_Exploitation](04_Post_Exploitation/) | Security Analysis | ✅ |
+| [05_Reporting](05_Reporting/) | Documentation & Reports | ✅ |
+
+## 🎯 Skills Demonstrated
+- **Security Assessment**: Reconnaissance, vulnerability analysis
+- **Tool Development**: Bash scripting, automation
+- **Documentation**: Technical writing, reporting
+- **Ethics**: Responsible security testing
+
+## 🧪 Testing Environment
+- Isolated virtual lab
+- Authorized systems only
+- Data sanitized before publication
+
+## 📞 Contact
+- **GitHub**: [tabinafarhan1603-commits](https://github.com/tabinafarhan1603-commits)
+- **Portfolio**: https://github.com/tabinafarhan1603-commits/cybersecurity-portfolio
+- **Created**: For cybersecurity assignment
+
