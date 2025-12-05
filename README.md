@@ -10,7 +10,7 @@ Professional cybersecurity portfolio demonstrating skills in security assessment
 - Vulnerability detection
 - Report generation
 
-[View Code](02_Reconnaissance/tools/recon-auto.sh)
+[View Code](02_Reconnaissance/recon-auto.sh) | [Full Repository](https://github.com/tabinafarhan1603-commits/recon-tool-tabina)
 
 ## 📁 Portfolio Structure
 
